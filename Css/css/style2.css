@@ -1,0 +1,28 @@
+.component {
+    width: 100%;
+    border: 1px orange solid;
+}
+
+.component__header {
+    font-size: 2rem;
+    background-color: orange;
+    color: white;
+    padding: 1.5em 3rem;
+    margin: 0;
+}
+
+.component__header--large {
+    font-size: 3rem;
+}
+
+.component__content {
+    font-size: 1rem;
+    padding: 1.5em 3rem;
+    margin: 0;
+}
+
+@media(min-width:12000px) {
+    html {
+        font-size: 125%;
+    }
+}

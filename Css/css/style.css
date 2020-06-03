@@ -1,0 +1,51 @@
+body {
+    background-color: #000000;
+    color: #FFFF;
+}
+
+h1,
+h2 {
+    color: blue;
+}
+
+p {
+    color: rebeccapurple;
+}
+
+div h1 {
+    color: brown;
+}
+
+div h2 {
+    background-color: rgb(255, 208, 0);
+}
+
+.yellow {
+    background-color: yellow;
+    color: black;
+}
+
+h3 .green {
+    background-color: crimson;
+    color: white;
+}
+
+a[href="https://www.google.com"] {
+    background-color: aqua;
+    background-color: coral;
+}
+
+.pixel {
+    font-size: 32px;
+    color: rgb(81, 148, 148);
+}
+
+.cmdx {
+    font-size: 2em;
+    color: darkmagenta;
+}
+
+.inx {
+    font-size: 16in;
+    color: chocolate;
+}

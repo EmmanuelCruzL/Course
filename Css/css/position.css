@@ -1,0 +1,33 @@
+div {
+    width: 100px;
+    height: 100px;
+    background: #44aaf4;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    /* float: left; */
+    margin: .5px;
+}
+
+.box {
+    width: 480px;
+    height: 450px;
+    background: #000;
+    position: relative;
+    float: left;
+}
+
+.boxY {
+    float: right;
+}
+
+.boxX {
+    float: left;
+}
+
+.boxLeth {
+    border-radius: .5px;
+    background-color: rgb(185, 52, 185);
+    color: white;
+    font-size: 3em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

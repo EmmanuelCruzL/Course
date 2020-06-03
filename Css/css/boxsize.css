@@ -1,0 +1,28 @@
+body {
+    background-color: #365ca3;
+    font-family: Helvetica;
+}
+
+a {
+    color: #3a77e8;
+    text-decoration: none;
+}
+
+#container {
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#container {
+    background-color: white;
+    width: 500px;
+}
+
+#image {
+    padding-bottom: 10px;
+}
+
+#description {
+    padding: 20px 0;
+    font-family: Helvetica;
+}

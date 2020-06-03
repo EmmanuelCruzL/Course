@@ -1,0 +1,19 @@
+body {
+    font-size: 4em;
+}
+
+table {
+    border-top-style: double;
+    border-bottom-style: dotted;
+    border-left-style: inset;
+    border-right-style: dashed;
+    border-width: 10px;
+    border-top-color: aqua;
+    border-bottom-color: brown;
+    border-left-color: darkolivegreen;
+    border-right-color: coral;
+}
+
+th {}
+
+td {}

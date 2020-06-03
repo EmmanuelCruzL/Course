@@ -1,0 +1,16 @@
+   img {
+       height: auto;
+       width: 300px;
+       margin: auto;
+       border-radius: 10%;
+       box-shadow: 5px 5px 0px rgb(82, 74, 74);
+       /* background-color: antiquewhite; */
+       display: block;
+       padding: 10px;
+       border: 1px solid #000;
+   }
+   
+   div {
+       background-color: #ccc;
+       width: 100%;
+   }

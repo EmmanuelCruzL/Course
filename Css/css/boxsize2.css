@@ -1,0 +1,35 @@
+body {
+    background-color: #DE6F14;
+    font-family: hELVETICA;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.container {
+    background-color: white;
+    width: 400px;
+}
+
+.campo {
+    padding: 20px;
+}
+
+.campo input,
+.campo textarea {
+    padding: 10px;
+    width: 350px;
+}
+
+.boton {
+    border: 0;
+}
+
+.boton:hover {
+    background-color: rgb(110, 110, 110);
+}
+
+textarea {
+    min-height: 50px;
+}

@@ -1,0 +1,46 @@
+body {
+    background-image: url(../img/fondo.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: Arial;
+}
+
+h1 {
+    border-bottom: 1.5px dotted;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
+a:hover {
+    background-color: black;
+}
+
+#main-container {
+    width: 500px;
+}
+
+#content {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+#descripcion {
+    color: #aaa;
+    font-size: 0.812em;
+}
+
+#boton-content {
+    text-align: center;
+}
+
+#main-image {
+    width: 2ss500px;
+}

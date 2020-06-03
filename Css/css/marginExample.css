@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(253, 207, 53);
+    margin: 0;
+} 
+
+.container {
+    padding: 1em;
+    background-color: #bbb;
+    width: 50%;
+    margin: 10px auto;
+}
+
+.container img {
+    margin: -10px;
+    width: 250px;
+}
